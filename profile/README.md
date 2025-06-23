@@ -1,81 +1,71 @@
 # 🎓 hfg.design 2.0
 
-**hfg.design 2.0** ist die moderne, prozess- und nutzerorientierte Open‑Source‑Lehr‑ und Lernplattform der Hochschule für Gestaltung Schwäbisch Gmünd (HfG), entwickelt seit Beginn der Pandemie. Gefördert von der **Stiftung Innovation in der Hochschullehre** (StIL), stärkt sie projekt- und kommunikationsbasierte Lehrformate[^1].
+**hfg.design 2.0** ist die moderne, prozess- und nutzerorientierte Open‑Source‑Lehr‑ und Lernplattform der Hochschule für Gestaltung Schwäbisch Gmünd. Entwickelt seit der Pandemie, gefördert von der **Stiftung Innovation in der Hochschullehre** (StIL)[^1].
 
 ---
 
 ## 🚀 Ziel & Nutzen
 
-- **Kollaborative Lehr‑ und Lerninfrastruktur** zur Integration von Digital-, Präsenz- und Hybridveranstaltungen  
-- Verbesserte Zeit‑ und Projektplanung für Studierende, bei weniger Aufwand für Lehrende  
-- Open‑Source/OER‑Plattform – adaptierbar auch für andere Hochschulen[^2]
+- **Kollaborative Lehr‑ und Lerninfrastruktur** zur Integration von digitalen, Präsenz- und Hybridveranstaltungen  
+- Bessere Zeit‑ und Projektplanung für Studierende bei geringerem Aufwand für Lehrende  
+- Bereitstellung als **Open‑Source/OER‑Plattform** – adaptierbar auch für andere Hochschulen[^1]
 
 ---
 
 ## 🛠️ Technik‑Stack
 
-| Komponente         | Funktion                              |
-|--------------------|----------------------------------------|
-| **Matrix‑Backend** | Echtzeit-Chat und Teamkommunikation    |
-| **MinIO (S3)**     | Medien- und Dateispeicherung           |
-| **LiveKit**        | Skalierbares Video‑Streaming           |
+| Komponente           | Funktion                               |
+|----------------------|----------------------------------------|
+| **Matrix‑Backend**   | Echtzeit-Chat und Teamkommunikation    |
+| **MinIO (S3)**       | Medien- und Dateispeicherung           |
+| **LiveKit**          | Skalierbares Video‑Streaming           |
 
 ---
 
 ## 📚 Förderung
 
-StIL unterstützt das Projekt im Programm **„Hochschullehre durch Digitalisierung stärken“**, ausgeschrieben im November 2020. Seit dem 1. August 2021 werden 139 Projekte bundesweit gefördert, mit einem Gesamtbudget von bis zu 330 Mio € über drei Jahre und einem jährlichen StIL-Budget von rund 150 Mio €[^3][^4][^5].
+Finanziert durch die StIL-Förderlinie **„Hochschullehre durch Digitalisierung stärken“**, die seit 2020 läuft. Die Stiftung wurde 2020 gegründet, hat ihren Sitz in Hamburg und erhält jährlich ein Budget von 150 Mio € von Bund und Ländern[^1][^2].
 
 ---
 
 ## 🌐 Mitmachen
 
-Beiträge aus der Community sind willkommen:
+Wir freuen uns über Community‑Beiträge:
 
-- Ideen und Issues  
-- Pull Requests (Code)  
+- Issues & Feature‑Requests  
+- Pull Requests für Code  
 - Dokumentationen, Tutorials & OER‑Materialien
 
 ---
 
 ## 📌 Links & Ressourcen
 
-- 🌍 **Projekt-Website**: [v2.hfg.design](https://v2.hfg.design)  
-- 💻 **Quellcode & Issues**: in dieser Organisation auf GitHub  
-- 📄 **StIL-Förderprogramm**: „Hochschullehre durch Digitalisierung stärken“
+- 🌍 **Live-Plattform**: [v2.hfg.design](https://v2.hfg.design)  
+- 💻 **Quellcode & Issues**: in dieser Organisation  
+- 📄 **Förderprogramm StIL**: „Hochschullehre durch Digitalisierung stärken“
 
 ---
 
 ## 👥 Kontakt
 
-- **Prof. Florian Geiselhart** (Projektverantwortung)  
-- **Prof. Dagmar Rinker** – dagmar.rinker@hfg-gmuend.de[^2]
+Bei Fragen, Support oder Kooperationen:
+
+- **Prof. Florian Geiselhart** (Projektverantwortung)  
+- **Prof. Dagmar Rinker** – dagmar.rinker@hfg‑gmuend.de
 
 ---
 
 ## 📫 Call to Action
 
-➡️ **Folgt uns**, **forkt das Projekt** und gestaltet mit – gemeinsam bauen wir eine offene, zukunftsfähige Lerncommunity!
+➡️ **Folgt uns**, **forkt das Projekt** und gestaltet mit – gemeinsam bauen wir eine offene, zukunftsfähige Lern‑Community!
 
 ---
 
-*README in Markdown ohne harte Zeilenumbrüche; ergänzt um TOC und optional Badges für Technologie, Lizenz, Open‑Source.*
+*README möglichst in Markdown ohne harte Zeilenumbrüche formatieren, mit TOC und optional Badges (Technologien, Lizenz, Open‑Source).*
 
 ---
 
 ### Quellen
 
-1. Projektbeschreibung, Ziele, Verantwortliche – Stiftung StIL[^2]  
-2. Prof. Geiselhart & Prof. Rinker erwähnt auf StIL-Projektseite[^2]  
-3. Programmstart, Anzahl Projekte, Fördervolumen – StIL-Förderseite[^1]  
-4. Startdatum 1. Aug 2021, 139 Projekte, 330 Mio € – Förderbekanntmachung[^5]  
-5. Stiftungsauslegung, Gründung 2020, Budget 150 Mio €/Jahr – StIL Wikipedia[^4]
-
----
-
-### Quellen im Web
-
-- [hfg.design 2.0 – StIL Projektseite, HfG Schwäbisch Gmünd](https://stiftung-hochschullehre.de/projekt/hfgd-2-0/)  
-- [Stiftung Innovation in der Hochschullehre – Förderprogramm „Hochschullehre durch Digitalisierung stärken“](https://stiftung-hochschullehre.de/foerderung/hochschullehre-durch-digitalisierung-staerken/)  
-- [Förderbekanntmachung – 139 Projekte, 330 Mio €, Start 1. Aug 2021](https://hochschulforumdigitalisierung.de/news/foerderbekanntmachung-hochschullehre-durch-digitalisierung-staerken-der-stiftung-innovation-in-der-hochschullehre/)  
-- [StIL Wikipedia – Gründung 2020, Budget 150 Mio € jährlich](https://de.wikipedia.org/wiki/Stiftung_Innovation_in_der_Hochschullehre)
+[^1]: Stiftung Innovation in der Hochschullehre (StIL): gegründet 2020, Sitz Hamburg, Budget 150 Mio €/Jahr :contentReference[oaicite:1]{index=1}  
+[^2]: StIL erhält jährlich 150 Mio €, Finanzierung durch Bund und Länder :contentReference[oaicite:2]{index=2}
